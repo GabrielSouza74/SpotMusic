@@ -1,4 +1,3 @@
-markdown
 # SpotMusic
 
 Projeto Java para gerenciamento e reprodução de músicas.
